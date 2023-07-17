@@ -75,9 +75,9 @@
       </li>
       <li>
         <div class="project-box">
-          <figure class="project-image reveal-effect masker wow"> <a href="case-detail.php" data-fancybox><img src="images/minek-street.jpg" alt="Image"></a> </figure>
+          <figure class="project-image reveal-effect masker wow"> <a href="case-detail.php"><img src="images/minek-street.jpg" alt="Image"></a> </figure>
           <div class="project-content">
-            <h3><a href="images/works01.jpg" data-fancybox>Fine wine for fine company</a></h3>
+            <h3><a href="case-detail.php">Fine wine for fine company</a></h3>
             <small>Branding strategy/Design</small> </div>
           <!-- end project-content --> 
         </div>
