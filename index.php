@@ -4,7 +4,7 @@
 <Header class="header">
 <div class="page-title">
  	<div class="container">
-<h2>We levate <br> </h2>
+<h2>We elevate <br> </h2>
 	<h2>digital brands</h2>
 </div>
 </Header>
