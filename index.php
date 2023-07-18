@@ -324,95 +324,75 @@
 <section class="logos">
   <div class="container">
     <div class="titles">
-      <h6>SELECTED CLIENTS</h6>
-      <p>We’re constantly refining our product. Adding new features.  Working to
-        help your business grow.</p>
+      <h6>Our Clients</h6>
+      <p>We work with startups, coporates and clients at all levels around the world</p>
     </div>
     <!-- end titles -->
     <ul class="wow fadeInUp">
       <li>
-        <figure><img src="images/logo01.png" alt="Image">
-        <img src="images/logo05.png" alt="Image">
+        <figure><img src="images/1partners.png" alt="Image">
+        <img src="images/1partners.png" alt="Image">
         </figure>
       </li>
       <li>
-        <figure><img src="images/logo02.png" alt="Image">
-        <img src="images/logo15.png" alt="Image"></figure>
+        <figure><img src="images/2partners.png" alt="Image">
+        <img src="images/2partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo03.png" alt="Image">
-        <img src="images/logo12.png" alt="Image">
+        <figure><img src="images/3partners.png" alt="Image">
+        <img src="images/3partners.png" alt="Image">
         </figure>
       </li>
       <li>
-        <figure><img src="images/logo04.png" alt="Image">
-        <img src="images/logo11.png" alt="Image">
+        <figure><img src="images/4partners.png" alt="Image">
+        <img src="images/4partners.png" alt="Image">
         </figure>
       </li>
       <li>
-        <figure><img src="images/logo05.png" alt="Image">
-         <img src="images/logo06.png" alt="Image"></figure>
+        <figure><img src="images/5partners.png" alt="Image">
+         <img src="images/5partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo06.png" alt="Image">
-         <img src="images/logo02.png" alt="Image"></figure>
+        <figure><img src="images/6partners.png" alt="Image">
+         <img src="images/6partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo07.png" alt="Image">
-         <img src="images/logo07.png" alt="Image"></figure>
+        <figure><img src="images/7partners.png" alt="Image">
+         <img src="images/7partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo08.png" alt="Image">
-         <img src="images/logo13.png" alt="Image"></figure>
+        <figure><img src="images/8partners.png" alt="Image">
+         <img src="images/8partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo09.png" alt="Image">
-         <img src="images/logo16.png" alt="Image"></figure>
+        <figure><img src="images/9partners.png" alt="Image">
+         <img src="images/9partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo10.png" alt="Image">
-         <img src="images/logo15.png" alt="Image"></figure>
+        <figure><img src="images/10partners.png" alt="Image">
+         <img src="images/10partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo11.png" alt="Image">
-         <img src="images/logo01.png" alt="Image"></figure>
+        <figure><img src="images/11partners.png" alt="Image">
+         <img src="images/11partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo12.png" alt="Image">
-         <img src="images/logo06.png" alt="Image"></figure>
+        <figure><img src="images/12partners.png" alt="Image">
+         <img src="images/12partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo13.png" alt="Image">
-         <img src="images/logo04.png" alt="Image"></figure>
+        <figure><img src="images/13partners.png" alt="Image">
+         <img src="images/13partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo14.png" alt="Image">
-         <img src="images/logo11.png" alt="Image"></figure>
+        <figure><img src="images/14partners.png" alt="Image">
+         <img src="images/14partners.png" alt="Image"></figure>
       </li>
       <li>
-        <figure><img src="images/logo15.png" alt="Image">
-         <img src="images/logo10.png" alt="Image"></figure>
+        <figure><img src="images/15partners.png" alt="Image">
+         <img src="images/15partners.png" alt="Image"></figure>
       </li>
-      <li>
-        <figure><img src="images/logo04.png" alt="Image">
-         <img src="images/logo12.png" alt="Image"></figure>
-      </li>
-      <li>
-        <figure><img src="images/logo05.png" alt="Image">
-         <img src="images/logo08.png" alt="Image"></figure>
-      </li>
-      <li>
-        <figure><img src="images/logo06.png" alt="Image">
-         <img src="images/logo03.png" alt="Image"></figure>
-      </li>
-      <li>
-        <figure><img src="images/logo07.png" alt="Image">
-         <img src="images/logo02.png" alt="Image"></figure>
-      </li>
-      <li>
-        <figure><img src="images/logo08.png" alt="Image">
-         <img src="images/logo10.png" alt="Image"></figure>
-      </li>
+   
     </ul>
   </div>
   <!-- end container --> 
@@ -423,9 +403,9 @@
     <h6>WORK WITH PRO TEAM</h6>
     <h2>Would you like to have professional project?
       Let's talk about it!</h2>
-    <p><a href="#">hire-us@agensy.com.ua</a></p>
+    <p><a href="#">info@nojo.co.ke</a></p>
     <small>Or</small>
-    <p>+380 98 294 80 85</p>
+    <p>+254 708818032</p>
   </div>
   <!-- end container --> 
 </section>

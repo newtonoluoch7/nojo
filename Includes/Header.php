@@ -58,8 +58,9 @@
 	<div class="inner">
 	<div class="side-menu">
       <ul>
-        <li><a href="agensy.php">Agensy</a></li>
-        <li><a href="cases.php">Cases</a></li>
+      <li><a href="index.php">Home</a></li>
+        <li><a href="agensy.php">About</a></li>
+        <li><a href="cases.php">Project</a></li>
         <li><a href="blog.php">Blog</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
